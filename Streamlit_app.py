@@ -33,7 +33,7 @@ st.markdown(hide_streamlit_footer, unsafe_allow_html=True)
 
 
 # Connect to OpenAI GPT-3, fetch API key from Streamlit secrets
-openai.api_key = ("Open AI API Key")
+openai.api_key = ("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")
 
 
 def gen_mail_contents(email_contents):
@@ -83,11 +83,11 @@ def gen_mail_format(sender, recipient, style, email_contents):
 
 def main_gpt3emailgen():
 
-    st.image('GPT_email_generator-main\img\image_banner.png')  # TITLE and Creator information
+    st.image('GPT_email_generator-main\img\Email Generator.jpg')  # TITLE and Creator information
     st.markdown('Generate professional sounding emails based on your direct comments - powered by Artificial Intelligence (OpenAI GPT-3) Implemented by '
-        '[stefanrmmr](https://www.linkedin.com/in/stefanrmmr/) - '
+        '[Pratyay Anil](https://www.linkedin.com/in/pratyay-anil-412127185) - '
         'view project source code on '
-        '[GitHub](https://github.com/stefanrmmr/gpt3_email_generator)')
+        '[GitHub](https://github.com/Pratyayanil/Email-Generator-using-Python-Open-AI-and-Streamlit)')
     st.write('\n')  # add spacing
 
     st.subheader('\nWhat is your email all about?\n')
