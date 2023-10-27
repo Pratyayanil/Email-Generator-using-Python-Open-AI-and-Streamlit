@@ -2,7 +2,7 @@ Certainly! Here's an example of a README file for the "Email Generator for Stude
 
 ---
 
-# Email Generator for Students
+# Email Generator Using Python Open AI and Streamlit
 
 ## Description
 
