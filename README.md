@@ -1,6 +1,3 @@
-Certainly! Here's an example of a README file for the "Email Generator for Students using Python and OpenAI API with Streamlit" project:
-
----
 
 # Email Generator Using Python Open AI and Streamlit
 
@@ -86,7 +83,3 @@ Contributions are welcome! If you'd like to enhance the Email Generator or fix i
 ## Contact
 
 For questions or support, please contact [Pratyayanil11@gmail.com].
-
----
-
-Feel free to customize this README to match your project's specifics and add any additional sections that are relevant.
